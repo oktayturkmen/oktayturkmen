@@ -3,15 +3,11 @@
 <h2 align="center" style="color:green;">Things in my Github Profile</h2>
 <hr>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OktayTurkmen&show_icons=true&theme=dark&locale=en" 
-       alt="GitHub Stats" 
-       style="display:inline-block; margin:10px;" />
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OktayTurkmen&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OktayTurkmen&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" height="180" />
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OktayTurkmen&show_icons=true&locale=en&layout=compact" 
-       alt="Top Languages" 
-       style="display:inline-block; margin:10px;" />
-</p>
 
 ---
 
